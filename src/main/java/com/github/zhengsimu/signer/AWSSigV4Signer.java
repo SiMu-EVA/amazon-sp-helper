@@ -11,6 +11,7 @@ import okhttp3.Request;
 
 /**
  * AWS Signature Version 4 Signer
+ * @author zhengsimu
  */
 public class AWSSigV4Signer {
     private static final String SERVICE_NAME = "execute-api";

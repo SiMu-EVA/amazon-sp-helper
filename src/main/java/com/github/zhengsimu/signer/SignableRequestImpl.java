@@ -22,6 +22,7 @@ import java.util.Map;
 
 /**
  * 实现签名
+ * @author zhengsimu
  */
 class SignableRequestImpl implements SignableRequest<Request> {
     private static final String CONTENT_TYPE_HEADER_NAME = "Content-Type";
