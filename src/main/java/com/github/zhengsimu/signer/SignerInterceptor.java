@@ -3,7 +3,7 @@ package com.github.zhengsimu.signer;
 import com.amazonaws.util.StringUtils;
 import com.github.zhengsimu.Marketplace;
 import com.github.zhengsimu.ShopTokenInfo;
-import com.github.zhengsimu.config.ShopPool;
+import com.github.zhengsimu.ShopPool;
 import okhttp3.Interceptor;
 import okhttp3.Request;
 import okhttp3.Response;

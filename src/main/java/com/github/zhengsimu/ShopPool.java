@@ -1,4 +1,4 @@
-package com.github.zhengsimu.config;
+package com.github.zhengsimu;
 
 import com.github.zhengsimu.ShopTokenInfo;
 
